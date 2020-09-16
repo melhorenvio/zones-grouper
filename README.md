@@ -1,2 +1,2 @@
 # zones-grouper
-Group close zones intervals in commom
+Group close zones intervals in common
